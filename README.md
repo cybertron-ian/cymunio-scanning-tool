@@ -1,4 +1,24 @@
-OWASP Nettacker
+# Cymunio Scanning Tool
+
+This is a cybersecurity network scanning and analysis project inspired by OWASP Nettacker.
+
+## Purpose
+Built for learning and experimentation in:
+- Network scanning concepts
+- Security analysis
+- Vulnerability detection workflows
+
+## Features (planned / modified)
+- Network reconnaissance
+- Host discovery
+- Security testing modules
+- Reporting dashboard (future)
+
+## Disclaimer
+This project is based on open-source cybersecurity tools and is used strictly for educational purposes.
+
+## Author
+Ian (Cybertron-Ian)
 =========
 [![Build Status](https://github.com/OWASP/Nettacker/actions/workflows/ci_cd.yml/badge.svg?branch=master)](https://github.com/OWASP/Nettacker/actions/workflows/ci_cd.yml/badge.svg?branch=master)
 [![Apache License](https://img.shields.io/badge/License-Apache%20v2-green.svg)](https://github.com/OWASP/Nettacker/blob/master/LICENSE)
